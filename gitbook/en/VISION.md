@@ -6,4 +6,4 @@ We would like to make a complete course set for major Computer Science, which is
 * AI
 * Programming language
 
-We will make online courses and offline training, including video, gitbook, source code. The best of those courses is that it is designed for combining theory and practice, not only for teaching the course itself, more importantly, for forming the student scientific method and critical thinking.
+The courses will be shaped in the forms of online self-learning courses and offline training, including video, gitbook, source code. All the courses in this project are designed as combining theory and practice. The teaching approach used in those courses focus on not only teaching the course itself, but also helping the students apply scientific method and critical thinking in life-long learning.
